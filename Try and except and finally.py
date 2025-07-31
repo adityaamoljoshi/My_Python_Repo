@@ -3,7 +3,7 @@ b = int(input("Enter another number: "))
 try:
     print(a/b)
 except ZeroDivisionError:
-    print("You can't divide by 0")
+    print("You can't divide by Zero")
 else:
     print("You ran program successfully")
 finally:
