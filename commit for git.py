@@ -1,0 +1,1 @@
+print("Git test  for new file from pycharm")
